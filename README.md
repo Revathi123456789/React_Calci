@@ -149,7 +149,7 @@ function Calculator() {
         <button onClick={() => handleClick("/")}>/</button>
       </div>
       <footer>
-        DIVYA M   212223040043
+      REVATHI K(212223040169)
       </footer>
     </div>
   );
@@ -159,9 +159,6 @@ export default Calculator;
 ```
 
 ## OUTPUT
-<img width="1868" height="875" alt="Screenshot 2025-09-12 132551" src="https://github.com/user-attachments/assets/3fb9519e-b7fc-4666-9742-aa07e70cfc6c" />
-
-<img width="1861" height="921" alt="Screenshot 2025-09-12 132604" src="https://github.com/user-attachments/assets/b717de7b-e10b-4a55-9ae8-4265c985d81f" />
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
